@@ -17,6 +17,17 @@
 -  [gitee](https://gitee.com/Z568_568)
 -  [github](https://github.com/ZHYI-source)
 
+#### 项目截图
+<img  src="doc/img_7.png" width = "200" height = "115">
+<img  src="doc/img.png" width = "200" height = "115">
+<img  src="doc/img_1.png" width = "200" height = "115">
+<img  src="doc/img_2.png" width = "200" height = "115">
+<img  src="doc/img_3.png" width = "200" height = "115">
+<img  src="doc/img_4.png" width = "200" height = "115">
+<img  src="doc/img_5.png" width = "200" height = "115">
+<img  src="doc/img_6.png" width = "200" height = "115">
+<img  src="doc/img_7.png" width = "200" height = "115">
+
 #### 软件架构
 
 - ADMIN ( 管理端 ): `Vue3、Vite4、Ant Design Vue3、JavaScript、Pinia、Hooks、vue-router4`
@@ -24,14 +35,14 @@
 
 #### 功能模块
 
-[ x ] 用户登录、注册
-[ x ] 用户管理
-[ x ] 角色管理
-[ x ] 权限管理
-[ x ] 操作日志
-[ x ] 数据大屏
-[ x ] 资源管理、图片文件上传下载
-[ x ] 自定义主题、菜单权限、按钮权限等等
+- [x] 用户登录、注册
+- [x] 用户管理
+- [x] 角色管理
+- [x] 权限管理
+- [x] 操作日志
+- [x] 数据大屏
+- [x] 资源管理、图片文件上传下载
+- [x] 自定义主题、菜单权限、按钮权限等等
 
 #### 安装教程
 

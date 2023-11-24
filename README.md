@@ -22,21 +22,21 @@
   
   找到`SERVER/.env.development`修改成你的数据库信息
 
-```javascript 
+```shell
 DB_NAME=mealpass # 数据库名称
 DB_USERNAME=root # 数据库用户名
 DB_PASSWORD=root # 数据库密码
 ```
 ##### 3.按照依赖并启动服务
 
-```javascript 
+```shell
 # 依次输入下面命令
 > npm i
 > node app.js 或者 nodemon app.js (全局安装 nodemon 情况下使用)
 ```
 #####  4.启动成功示例
 
-```javascript 
+```shell
 ****************************************************
 【接口地址】: http://localhost:3000/v1
 【文档地址】: http://localhost:3000/swagger

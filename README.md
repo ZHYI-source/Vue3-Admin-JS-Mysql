@@ -27,7 +27,7 @@ DB_NAME=mealpass # 数据库名称
 DB_USERNAME=root # 数据库用户名
 DB_PASSWORD=root # 数据库密码
 ```
-##### 3.按照依赖并启动服务
+##### 3.安装依赖并启动服务
 
 ```shell
 # 依次输入下面命令
@@ -52,4 +52,23 @@ DB_PASSWORD=root # 数据库密码
 ******************数据库连接成功********************
 
 ```
-    
+
+#### 启动 ADMIN ( 管理端 )
+
+##### 1.安装依赖并启动服务
+
+```shell
+# 依次输入下面命令
+> npm i
+> npm run dev
+```
+#####  2.启动成功示例
+
+```shell
+  VITE v4.2.1  ready in 2077 ms
+
+  ➜  Local:   http://localhost:3090/
+  ➜  Network: http://192.168.0.15:3090/
+  ➜  press h to show help
+
+```

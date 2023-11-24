@@ -22,7 +22,7 @@
 
 #### 项目截图
 
-<img  src="docs/img.png" width = "200" height = "115">
+<img  src="docs/img.png" width = "450" height = "115">
 <img  src="docs/img_1.png" width = "200" height = "115">
 <img  src="docs/img_2.png" width = "200" height = "115">
 <img  src="docs/img_3.png" width = "200" height = "115">

@@ -1,6 +1,7 @@
 # Vue3-Admin-JS-Mysql
 
 #### 介绍
+
 🎉2023中后台管理系统基于最新的技术栈`（Vue3、Vite4、Ant Design Vue3、JavaScript、Pinia、Hooks、vue-router4、Mysql数据库）`的基础前后端分离开发模板。
 
 项目中我采用的**权限设计方案**属于基于角色的访问控制`（Role-Based Access Control，RBAC）`。
@@ -12,12 +13,15 @@
 > 🎯 如果项目对你有帮助，可以帮帮忙点个小星星，谢谢了~
 
 #### QQ群：529675917
+
 找到作者
--  [个人主页](https://www.zhouyi.run/)
--  [gitee](https://gitee.com/Z568_568)
--  [github](https://github.com/ZHYI-source)
+
+- [个人主页](https://www.zhouyi.run/)
+- [gitee](https://gitee.com/Z568_568)
+- [github](https://github.com/ZHYI-source)
 
 #### 项目截图
+
 <img  src="docs/img.png" width = "200" height = "115">
 <img  src="docs/img_1.png" width = "200" height = "115">
 <img  src="docs/img_2.png" width = "200" height = "115">
@@ -51,24 +55,27 @@
 #### clone 代码
 
 ```javascript
-git clone https://gitee.com/Z568_568/Vue3-Admin-JS-Mysql.git
+git
+clone
+https://gitee.com/Z568_568/Vue3-Admin-JS-Mysql.git
 ```
 
 #### 启动 SERVER ( 服务端 )
-  
-##### 1.建数据库 
-  
-  打开navicat连接mysql，新建数据库 mealpass - 运行sql文件（`SERVER/sql/mealpass.sql`）
+
+##### 1.建数据库
+
+打开navicat连接mysql，新建数据库 mealpass - 运行sql文件（`SERVER/sql/mealpass.sql`）
 
 ##### 2.修改项目配置
-  
-  找到`SERVER/.env.development`修改成你的数据库信息
+
+找到`SERVER/.env.development`修改成你的数据库信息
 
 ```shell
 DB_NAME=mealpass # 数据库名称
 DB_USERNAME=root # 数据库用户名
 DB_PASSWORD=root # 数据库密码
 ```
+
 ##### 3.安装依赖并启动服务
 
 ```shell
@@ -76,7 +83,8 @@ DB_PASSWORD=root # 数据库密码
 > npm i
 > node app.js 或者 nodemon app.js (全局安装 nodemon 情况下使用)
 ```
-#####  4.启动成功示例
+
+##### 4.启动成功示例
 
 ```shell
 ****************************************************
@@ -104,7 +112,8 @@ DB_PASSWORD=root # 数据库密码
 > npm i
 > npm run dev
 ```
-#####  2.启动成功示例
+
+##### 2.启动成功示例
 
 ```shell
   VITE v4.2.1  ready in 2077 ms
@@ -116,7 +125,6 @@ DB_PASSWORD=root # 数据库密码
 ```
 
 > 管理端启动成功后账号密码：admin 123456
-
 
 #### 其他相关开源项目
 

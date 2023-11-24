@@ -18,13 +18,15 @@
 -  [github](https://github.com/ZHYI-source)
 
 #### 项目截图
-<img  src="docs/img_6.png" width = "200" height = "115">
 <img  src="docs/img.png" width = "200" height = "115">
 <img  src="docs/img_1.png" width = "200" height = "115">
 <img  src="docs/img_2.png" width = "200" height = "115">
 <img  src="docs/img_3.png" width = "200" height = "115">
 <img  src="docs/img_4.png" width = "200" height = "115">
 <img  src="docs/img_5.png" width = "200" height = "115">
+<img  src="docs/img_6.png" width = "200" height = "115">
+<img  src="docs/img_7.png" width = "200" height = "115">
+<img  src="docs/img_8.png" width = "200" height = "115">
 
 #### 软件架构
 

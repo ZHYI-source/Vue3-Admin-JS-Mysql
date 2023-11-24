@@ -12,13 +12,13 @@
 
 默认你的已经安装好node环境、mysql5.* 数据库、vue3、navicat(软件 可选)
 
-- 启动 SERVER ( 服务端 )
+#### 启动 SERVER ( 服务端 )
   
-    1.建数据库 
+##### 1.建数据库 
   
   打开navicat连接mysql，新建数据库 mealpass - 运行sql文件（`SERVER/sql/mealpass.sql`）
-  
-    2.修改项目配置
+
+##### 2.修改项目配置
   
   找到`SERVER/.env.development`修改成你的数据库信息
 
@@ -27,14 +27,15 @@ DB_NAME=mealpass # 数据库名称
 DB_USERNAME=root # 数据库用户名
 DB_PASSWORD=root # 数据库密码
 ```
-    3.按照依赖并启动服务
+##### 3.按照依赖并启动服务
 
 ```javascript 
 # 依次输入下面命令
 > npm i
 > node app.js 或者 nodemon app.js (全局安装 nodemon 情况下使用)
 ```
-    4.启动成功示例
+#####  4.启动成功示例
+
 ```javascript 
 ****************************************************
 【接口地址】: http://localhost:3000/v1

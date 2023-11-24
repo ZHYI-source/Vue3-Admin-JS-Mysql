@@ -1,0 +1,41 @@
+{
+  "name": "servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "SET NODE_ENV=production&& node app.js --mode production",
+    "dev": "SET NODE_ENV=development&& nodemon app.js --mode development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "bcryptjs": "^2.4.3",
+    "chalk": "^4.0.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-jwt": "^8.4.1",
+    "express-session": "^1.17.3",
+    "express-swagger-generator": "^1.1.17",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "log4js": "^6.9.1",
+    "module-alias": "^2.2.3",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.6.3",
+    "nodemailer": "^6.9.7",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2",
+    "sequelize": "^6.35.0",
+    "svg-captcha": "^1.4.0",
+    "ua-parser-js": "^1.0.37"
+  }
+}
